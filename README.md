@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Reynaufal</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvnrynfl&label=Profile%20views&color=0e75b6&style=flat" alt="kvnrynfl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kvnrynfl&label=Profile%20views&color=0e75b6&style=flat" alt="kvnrynfl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvnrynfl" alt="kvnrynfl" /></a> </p>
-
-- 🔭 I’m currently working on [test](lazcore.id)
+- 🔭 I’m currently working on [lazcore.id](https://lazcore.id/)
 
 - 🌱 I’m currently learning **test**
 
