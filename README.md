@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kvnrynfl&label=Profile%20views&color=0e75b6&style=flat"
         alt="kvnrynfl" /> </p>
 
-- 🔭 I’m currently working on [lazcore.id](https://lazcore.id/)
+- 🔭 I’m currently working as a freelancer
 
-- 🌱 I’m currently learning **Laravel 10**
+- 🌱 I’m currently learning **Laravel 11**
 
-- 👨‍💻 All of my projects are available at [kevinreynaufal.my.id](https://kevinreynaufal.my.id)
+- 👨‍💻 All of my projects are available at [kevinreynaufal.com](https://kevinreynaufal.com)
 
 - 📫 How to reach me **kevinreynaufal2004@gmail.com**
 
