@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kvnrynfl&label=Profile%20views&color=0e75b6&style=flat"
         alt="kvnrynfl" /> </p>
 
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently working as a Software Enginer
 
 - 🌱 I’m currently learning **Laravel 11**
 
