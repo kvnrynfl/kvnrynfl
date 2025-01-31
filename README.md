@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Laravel 11**
 
-- 👨‍💻 All of my projects are available at [kevinreynaufal.com](https://kevinreynaufal.com)
+- 👨‍💻 All of my projects are available at [kevinreynaufal.com](https://kevinreynaufal.id)
 
 - 📫 How to reach me **kevinreynaufal2004@gmail.com**
 
